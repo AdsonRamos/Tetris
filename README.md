@@ -1,3 +1,9 @@
 # Tetris
 
-Some prints of the game: https://imgur.com/a/1HRxVb5
+It may have some bugs
+
+![Main menu](https://i.imgur.com/OpfT1jL.png)
+
+![Gameplay 1](https://i.imgur.com/fNAi8Xv.png)
+
+![Gameplay 2](https://i.imgur.com/AilatFD.png)
